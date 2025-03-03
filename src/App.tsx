@@ -423,7 +423,7 @@ function App() {
                   <Mail className="mr-4 mt-1 p-2 bg-zinc-800/50 rounded-full" size={20} />
                   <div>
                     <h4 className="font-medium mb-1">Email</h4>
-                    <p className="text-gray-300">shadow.studio1969gmail.com</p>
+                    <a href="mailto:shadow.studio1969@gmail.com" style={{ textDecoration: 'none' }}>shadow.studio1969@gmail.com</a>
                   </div>
                 </div>
                 <div className="flex items-start">
